@@ -1,0 +1,14 @@
+{
+    "name": "yungsters/hh-apc",
+    "description": "Simple APC utility class for use with Hack.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Timothy Yung",
+            "email": "yungsters@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
